@@ -1,0 +1,15 @@
+@charset "utf-8";
+/* CSS Document */
+.uno{background-color: grey}
+body{
+    background-color: cadetblue;
+    text-align: center;
+}
+.dos{
+    background-color: saddlebrown;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;}
+.cuatro{
+    background-color: gold;
+    font-size: 18px;
+    text-align: center;
+}
